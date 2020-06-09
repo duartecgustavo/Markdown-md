@@ -1,7 +1,7 @@
 # Markdown-md
 Repositório com instruções e comandos em **Markdown**.
 
-## Comandos Basicos:
+## Comandos `Basicos`:
 
 ---
 # Titulo 1 - Fora Bolsonaro
@@ -33,9 +33,18 @@ Repositório com instruções e comandos em **Markdown**.
    * Bozo
 
 ***
-## Lista de Tarefas quarentena:
+## Lista de Tarefas quarentena:'
 - [X] Não sair de casa.
 - [x] Estudar programação.
 - [ ] Ficar fodão em programação.
 - [ ] Responder as pessoas.
 - [ ] Lavar a louça
+
+***
+## Tabelas (campeões preferidos lol):
+
+Nome | Categoria | Nota
+---|---|---
+Lux | MAGE - AP | 10
+Ahri | MAGE - AP | 8
+Caitlyn | ADC - AD | 7
