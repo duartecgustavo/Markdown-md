@@ -16,4 +16,6 @@ Ou, pode acompanhar meu estudo sobre ``Markdown`` que vai desde o básico até o
 - [ ] [**Avançado**;](https://github.com/duartecgustavo/Markdown-md/blob/master/Avan%C3%A7ado.md)
 
 
-![Assinatura1 1](https://user-images.githubusercontent.com/65131471/84540714-5a820e00-accc-11ea-9ad4-57ef348ead4b.jpg)
+![Assinatura1 2](https://user-images.githubusercontent.com/65131471/85914617-e9873e00-b815-11ea-8a6d-72f6ffcd8882.png)
+
+[:arrow_left:](https://github.com/duartecgustavo)
